@@ -11,5 +11,8 @@
     "url": "AI-interview"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lucide-react": "^0.414.0"
+  }
 }
